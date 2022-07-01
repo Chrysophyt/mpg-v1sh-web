@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "chart.js": "^2.9.4",
+    "copy-webpack-plugin": "^11.0.0",
     "jimp": "^0.16.1",
     "next": "12.1.6",
     "onnxruntime-web": "^1.11.0",
